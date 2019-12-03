@@ -1,4 +1,8 @@
 hubin
 胡斌
-wo bu ni ba ba
+<<<<<<< HEAD
+wo shi ni ba ba
+=======
+wo shi ni ba ba
+>>>>>>> dev
 
